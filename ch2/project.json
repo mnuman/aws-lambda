@@ -1,0 +1,8 @@
+{
+  "name": "hello-world",
+  "description": "Hello World, apex style",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::736935930118:role/hello-world_lambda_function",
+  "environment": {}
+}
